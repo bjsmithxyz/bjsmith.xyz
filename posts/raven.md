@@ -92,7 +92,7 @@ On the morrow he will leave me, as my Hopes have flown before.</i>”
     Caught from some unhappy master whom unmerciful Disaster
     Followed fast and followed faster till his songs one burden bore—
 Till the dirges of his Hope that melancholy burden bore
-            Of ‘Never—</i><b>nevermore</b>’.”
+            Of ‘</i><b>Never—nevermore</b>’.”
 </pre>
 <pre>
     But the Raven still beguiling all my fancy into smiling,
