@@ -3,6 +3,7 @@ title: red vs. blue
 date: 2019-03-06
 tags:
   - post
+  - art
 layout: layouts/post.njk
 ---
 <code class="language-js">red</code>

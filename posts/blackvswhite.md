@@ -3,6 +3,7 @@ title: black vs. white
 date: 2019-11-14
 tags:
   - post
+  - art
 layout: layouts/post.njk
 ---
 <code class="language-js">black</code>

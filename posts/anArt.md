@@ -3,6 +3,7 @@ title: an art
 date: 2018-12-19
 tags:
   - post
+  - art
 layout: layouts/post.njk
 ---
 <p>when you create something in MS paint, it is referred to as;</p>

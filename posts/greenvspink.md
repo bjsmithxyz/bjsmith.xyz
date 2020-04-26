@@ -3,6 +3,7 @@ title: green vs. pink
 date: 2019-08-06
 tags:
   - post
+  - art
 layout: layouts/post.njk
 ---
 <code class="language-js">green</code>

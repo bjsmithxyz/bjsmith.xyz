@@ -3,6 +3,7 @@ title: everything is ok
 date: 2019-01-04
 tags:
   - post
+  - art
 layout: layouts/post.njk
 ---
 <p>i started drawing these during a particularly dull training session a few years ago.</p>

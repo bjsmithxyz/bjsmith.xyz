@@ -3,6 +3,7 @@ title: hakimashita
 date: 2019-01-31
 tags:
   - post
+  - art
 layout: layouts/post.njk
 ---
 <p>About a decade ago I was working in a job where I had considerable downtime in front of a computer. Naturally, I decided that the best way to spend my time was to draw things in MS Paint. In this time, my colleagues and I would shitpost via email to each other.
