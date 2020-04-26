@@ -6,9 +6,8 @@ tags:
   - poem
 layout: layouts/post.njk
 ---
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ the_raven.txt ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 
-Once upon a midnight dreary, while I pondered, weak and weary,
+<p>Once upon a midnight dreary, while I pondered, weak and weary,
 Over many a quaint and curious volume of forgotten lore—
     While I nodded, nearly napping, suddenly there came a tapping,
 As of some one gently rapping, rapping at my chamber door.
@@ -145,4 +144,5 @@ And my soul from out that shadow that lies floating on the floor
 ``` text/2-3
             Shall be lifted—nevermore!
 ```
+</p>
 <p><font size="-1">Edgar Allan Poe <i>(January 1845).</i></font></p>
