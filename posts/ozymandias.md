@@ -22,4 +22,4 @@ Look on my Works, ye Mighty, and despair!
 Nothing beside remains. Round the decay
 Of that colossal Wreck, boundless and bare
 The lone and level sands stretch far away.”
-<p>Percy Bysshe Shelley <i>(11 January 1818).</i></p>
+<p><font size="-1">Percy Bysshe Shelley <i>(11 January 1818).</i></font></p>
