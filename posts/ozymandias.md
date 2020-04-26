@@ -3,6 +3,7 @@ title: ozymandias
 date: 1818-01-11
 tags:
   - post
+  - poem
 layout: layouts/post.njk
 ---
 I met a traveller from an antique land,
