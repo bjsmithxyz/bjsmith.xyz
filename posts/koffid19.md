@@ -7,5 +7,5 @@ tags:
 layout: layouts/post.njk
 ---
 <a href="/img/koffid-19/koffid19.png" target="_blank">
-<img src="/img/koffid-19/k19.png" alt="koffid-19." style="width:810px;height:498px;">
+<img src="/img/koffid-19/k19.png" alt="koffid-19." style="width:438px;height:270px;">
 </a>
